@@ -142,11 +142,11 @@ const heightMark = 1.88;
 const massJohn = 85;
 const heightJohn = 1.76;
 
-const BMIMark = massMark / heightMark ** 2;
-const BMIJohn = massJohn / (heightJohn * heightJohn);
-const markHigherBMI = BMIMark > BMIJohn;
+// const BMIMark = massMark / heightMark ** 2;
+// const BMIJohn = massJohn / (heightJohn * heightJohn);
+// const markHigherBMI = BMIMark > BMIJohn;
 
-console.log(BMIMark, BMIJohn, markHigherBMI);
+// console.log(BMIMark, BMIJohn, markHigherBMI);
 
 ////////////////////////////////////
 // Strings and Template Literals
